@@ -6,7 +6,8 @@ public class Main {
 		System.out.println("Hi this is a change !!");
 		System.out.println("Hi this is a change again !!");
 		System.out.println("Hi this is the third change !!");
-		
+		System.out.println("Hi this is the pull confiict change !!");
+			
 	}
 
 }
