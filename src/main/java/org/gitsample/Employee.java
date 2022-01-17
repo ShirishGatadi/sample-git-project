@@ -5,7 +5,7 @@ public class Employee {
 	private String address ;
 	private double salary;
 	
-	
+	//Adding new Lines 
 	public String getName() {
 		return name;
 	}
