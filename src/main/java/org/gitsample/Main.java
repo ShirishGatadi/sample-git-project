@@ -10,7 +10,7 @@ public class Main {
 		System.out.println("Hi this is the pull confiict change !!");
 		System.out.println("Trying for pull conflicts");
 		System.out.println("Hi this is the pull confiict change !!"); 
-			
+		//Ading Additional line for Sample File 
 	}
 
 }
